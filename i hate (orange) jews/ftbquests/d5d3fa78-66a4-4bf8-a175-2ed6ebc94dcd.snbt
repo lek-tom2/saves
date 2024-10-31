@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "d5d3fa7866a44bf8a1752ed6ebc94dcd"
+	name: "Mr_Heisenberg_#d5d3fa78"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}
