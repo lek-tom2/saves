@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.light_blue_carpet",
+    "additionalplacements:chipped.barky_light_blue_carpet",
+    "additionalplacements:chipped.blocky_light_blue_carpet",
+    "additionalplacements:chipped.bundled_light_blue_carpet",
+    "additionalplacements:chipped.cross_haired_light_blue_carpet",
+    "additionalplacements:chipped.cubed_light_blue_carpet",
+    "additionalplacements:chipped.knitted_light_blue_carpet",
+    "additionalplacements:chipped.patched_light_blue_carpet",
+    "additionalplacements:chipped.rectangle_light_blue_carpet",
+    "additionalplacements:chipped.ribbled_light_blue_carpet",
+    "additionalplacements:chipped.scaled_light_blue_carpet",
+    "additionalplacements:chipped.soft_light_blue_carpet",
+    "additionalplacements:chipped.stringed_light_blue_carpet",
+    "additionalplacements:chipped.tiled_light_blue_carpet",
+    "additionalplacements:chipped.tripped_light_blue_carpet",
+    "additionalplacements:chipped.wickered_light_blue_carpet",
+    "additionalplacements:chipped.windmill_light_blue_carpet",
+    "additionalplacements:chipped.woved_light_blue_carpet",
+    "additionalplacements:chipped.cornered_light_blue_carpet",
+    "additionalplacements:chipped.crafted_light_blue_carpet",
+    "additionalplacements:chipped.harsh_quilted_light_blue_carpet"
+  ]
+}

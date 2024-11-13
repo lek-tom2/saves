@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.pink_carpet",
+    "additionalplacements:chipped.barky_pink_carpet",
+    "additionalplacements:chipped.blocky_pink_carpet",
+    "additionalplacements:chipped.bundled_pink_carpet",
+    "additionalplacements:chipped.cross_haired_pink_carpet",
+    "additionalplacements:chipped.cubed_pink_carpet",
+    "additionalplacements:chipped.knitted_pink_carpet",
+    "additionalplacements:chipped.patched_pink_carpet",
+    "additionalplacements:chipped.rectangle_pink_carpet",
+    "additionalplacements:chipped.ribbled_pink_carpet",
+    "additionalplacements:chipped.scaled_pink_carpet",
+    "additionalplacements:chipped.soft_pink_carpet",
+    "additionalplacements:chipped.stringed_pink_carpet",
+    "additionalplacements:chipped.tiled_pink_carpet",
+    "additionalplacements:chipped.tripped_pink_carpet",
+    "additionalplacements:chipped.wickered_pink_carpet",
+    "additionalplacements:chipped.windmill_pink_carpet",
+    "additionalplacements:chipped.woved_pink_carpet",
+    "additionalplacements:chipped.cornered_pink_carpet",
+    "additionalplacements:chipped.crafted_pink_carpet",
+    "additionalplacements:chipped.harsh_quilted_pink_carpet"
+  ]
+}

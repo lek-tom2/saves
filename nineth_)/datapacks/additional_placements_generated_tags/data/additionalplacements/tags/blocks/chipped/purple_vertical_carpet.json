@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.purple_carpet",
+    "additionalplacements:chipped.barky_purple_carpet",
+    "additionalplacements:chipped.blocky_purple_carpet",
+    "additionalplacements:chipped.bundled_purple_carpet",
+    "additionalplacements:chipped.cross_haired_purple_carpet",
+    "additionalplacements:chipped.cubed_purple_carpet",
+    "additionalplacements:chipped.knitted_purple_carpet",
+    "additionalplacements:chipped.patched_purple_carpet",
+    "additionalplacements:chipped.rectangle_purple_carpet",
+    "additionalplacements:chipped.ribbled_purple_carpet",
+    "additionalplacements:chipped.scaled_purple_carpet",
+    "additionalplacements:chipped.soft_purple_carpet",
+    "additionalplacements:chipped.stringed_purple_carpet",
+    "additionalplacements:chipped.tiled_purple_carpet",
+    "additionalplacements:chipped.tripped_purple_carpet",
+    "additionalplacements:chipped.wickered_purple_carpet",
+    "additionalplacements:chipped.windmill_purple_carpet",
+    "additionalplacements:chipped.woved_purple_carpet",
+    "additionalplacements:chipped.cornered_purple_carpet",
+    "additionalplacements:chipped.crafted_purple_carpet",
+    "additionalplacements:chipped.harsh_quilted_purple_carpet"
+  ]
+}

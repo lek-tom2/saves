@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.yellow_carpet",
+    "additionalplacements:chipped.barky_yellow_carpet",
+    "additionalplacements:chipped.blocky_yellow_carpet",
+    "additionalplacements:chipped.bundled_yellow_carpet",
+    "additionalplacements:chipped.cross_haired_yellow_carpet",
+    "additionalplacements:chipped.cubed_yellow_carpet",
+    "additionalplacements:chipped.knitted_yellow_carpet",
+    "additionalplacements:chipped.patched_yellow_carpet",
+    "additionalplacements:chipped.rectangle_yellow_carpet",
+    "additionalplacements:chipped.ribbled_yellow_carpet",
+    "additionalplacements:chipped.scaled_yellow_carpet",
+    "additionalplacements:chipped.soft_yellow_carpet",
+    "additionalplacements:chipped.stringed_yellow_carpet",
+    "additionalplacements:chipped.tiled_yellow_carpet",
+    "additionalplacements:chipped.tripped_yellow_carpet",
+    "additionalplacements:chipped.wickered_yellow_carpet",
+    "additionalplacements:chipped.windmill_yellow_carpet",
+    "additionalplacements:chipped.woved_yellow_carpet",
+    "additionalplacements:chipped.cornered_yellow_carpet",
+    "additionalplacements:chipped.crafted_yellow_carpet",
+    "additionalplacements:chipped.harsh_quilted_yellow_carpet"
+  ]
+}
