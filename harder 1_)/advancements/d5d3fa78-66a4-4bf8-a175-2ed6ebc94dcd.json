@@ -1,0 +1,104 @@
+{
+  "ae2wtlib:recipes/magnet_card": {
+    "criteria": {
+      "has_wct": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2024-11-14 22:05:59 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2024-11-14 22:05:46 +0100",
+      "has_wct": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2024-11-14 22:05:46 +0100",
+      "has_wct": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "rehooked:recipes/misc/wood_chain": {
+    "criteria": {
+      "blank": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2024-11-14 22:05:46 +0100",
+      "has_wpt": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2024-11-14 22:05:46 +0100",
+      "has_wpt": "2024-11-14 22:05:46 +0100",
+      "has_wct": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "rehooked:recipes/misc/diamond_chain": {
+    "criteria": {
+      "blank": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2024-11-14 22:05:59 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2024-11-14 22:05:46 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:eroded_badlands": "2024-11-14 22:06:05 +0100"
+    },
+    "done": false
+  },
+  "DataVersion": 3465
+}
