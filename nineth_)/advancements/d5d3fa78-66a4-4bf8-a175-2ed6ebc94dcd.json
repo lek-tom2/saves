@@ -7261,27 +7261,9 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/raw_iron_block": {
-    "criteria": {
-      "has_raw_iron": "2024-11-14 21:16:27 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/smart_chute": {
-    "criteria": {
-      "has_item": "2024-11-14 20:53:50 +0100"
-    },
-    "done": true
-  },
   "biomesoplenty:recipes/building_blocks/redwood_planks": {
     "criteria": {
       "has_logs": "2024-11-14 20:48:25 +0100"
-    },
-    "done": true
-  },
-  "artifacts:chest_slayer": {
-    "criteria": {
-      "kill_mimic": "2024-11-14 21:14:29 +0100"
     },
     "done": true
   },
@@ -7291,21 +7273,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+  "create:recipes/misc/crafting/kinetics/smart_chute": {
     "criteria": {
-      "has_raw_iron": "2024-11-14 21:16:27 +0100"
+      "has_item": "2024-11-14 20:53:50 +0100"
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+  "artifacts:chest_slayer": {
     "criteria": {
-      "has_raw_copper": "2024-11-14 21:16:02 +0100"
-    },
-    "done": true
-  },
-  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
-    "criteria": {
-      "has_raw_iron": "2024-11-14 21:16:27 +0100"
+      "kill_mimic": "2024-11-14 21:14:29 +0100"
     },
     "done": true
   },
@@ -7315,9 +7291,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-11-14 21:16:02 +0100"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/raw_copper_block": {
     "criteria": {
       "has_raw_copper": "2024-11-14 21:16:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2024-11-14 21:16:02 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_iron_block": {
+    "criteria": {
+      "has_raw_iron": "2024-11-14 21:16:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_smelting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-11-14 21:16:27 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_blasting_raw_iron": {
+    "criteria": {
+      "has_raw_iron": "2024-11-14 21:16:27 +0100"
     },
     "done": true
   },
@@ -7327,9 +7333,15 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+  "sgjourney:recipes/misc/fire_pit": {
     "criteria": {
-      "has_raw_copper": "2024-11-14 21:16:02 +0100"
+      "has_coal": "2024-11-14 21:33:21 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/coal_block": {
+    "criteria": {
+      "has_coal": "2024-11-14 21:33:21 +0100"
     },
     "done": true
   },
