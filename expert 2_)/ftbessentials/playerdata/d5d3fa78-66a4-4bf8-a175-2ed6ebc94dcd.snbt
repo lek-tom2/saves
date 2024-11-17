@@ -3,24 +3,31 @@
 	fly: false
 	god: false
 	nick: ""
-	last_seen: { dim: "minecraft:overworld", x: 363, y: 63, z: -606, time: 1731621106214L, xRot: 27.107798f, yRot: 99.08246f }
+	last_seen: { dim: "minecraft:overworld", x: -570, y: 64, z: -343, time: 1731842244840L, xRot: -1.0631719f, yRot: 178.60085f }
 	recording: "none"
 	teleport_history: [
-		{ dim: "minecraft:overworld", x: 376, y: 64, z: -608, time: 1731619852220L, xRot: 18.5578f, yRot: -163.86732f }
-		{ dim: "minecraft:overworld", x: 390, y: 63, z: -620, time: 1731619881114L, xRot: 10.607803f, yRot: -158.01729f }
-		{ dim: "minecraft:overworld", x: 390, y: 63, z: -620, time: 1731619885402L, xRot: 10.607803f, yRot: -158.01729f }
-		{ dim: "minecraft:overworld", x: 378, y: 64, z: -607, time: 1731619890942L, xRot: 8.657807f, yRot: -135.51718f }
-		{ dim: "minecraft:overworld", x: 486, y: 50, z: -139, time: 1731620694373L, xRot: 7.051145f, yRot: 70.6875f }
-		{ dim: "minecraft:overworld", x: 393, y: 157, z: -1088, time: 1731621085245L, xRot: 19.530567f, yRot: -18.249146f }
+		{ dim: "minecraft:overworld", x: 437, y: 1, z: -439, time: 1731839283443L, xRot: -4.8521357f, yRot: -100.71008f }
+		{ dim: "minecraft:overworld", x: 377, y: -40, z: -476, time: 1731839550445L, xRot: -16.049904f, yRot: -51.620483f }
+		{ dim: "minecraft:overworld", x: 368, y: 63, z: -619, time: 1731840463154L, xRot: 39.85873f, yRot: -166.27185f }
+		{ dim: "minecraft:overworld", x: -171, y: 44, z: -138, time: 1731840776730L, xRot: 4.7999806f, yRot: -90.77422f }
+		{ dim: "minecraft:overworld", x: 370, y: 63, z: -620, time: 1731841075638L, xRot: 41.4476f, yRot: 135.31105f }
+		{ dim: "minecraft:overworld", x: 351, y: 57, z: 1, time: 1731841367425L, xRot: 22.500082f, yRot: 2.1800716f }
+		{ dim: "minecraft:overworld", x: 392, y: 157, z: -1087, time: 1731841373521L, xRot: 21.750227f, yRot: -1.4866943f }
+		{ dim: "minecraft:overworld", x: -478, y: 62, z: -130, time: 1731841384366L, xRot: 17.823042f, yRot: -120.55054f }
+		{ dim: "minecraft:overworld", x: 373, y: 63, z: -621, time: 1731841434813L, xRot: 0.0f, yRot: -90.0f }
+		{ dim: "minecraft:overworld", x: 368, y: 63, z: -619, time: 1731841483886L, xRot: 31.349977f, yRot: 172.05003f }
 	]
 	homes: {
-		talc: { dim: "minecraft:overworld", x: 390, y: 63, z: -620, time: 1731619875584L, xRot: 10.607803f, yRot: -158.01729f }
-		magnetite_surface: { dim: "minecraft:overworld", x: 486, y: 88, z: -138, time: 1731619633786L, xRot: 58.73507f, yRot: 162.76013f }
+		mangoroove: { dim: "minecraft:overworld", x: -181, y: 65, z: -551, time: 1731786095715L, xRot: 18.603268f, yRot: 69.95288f }
 		galena1mine: { dim: "minecraft:overworld", x: 405, y: 23, z: -904, time: 1731620874786L, xRot: 8.336656f, yRot: 0.48962402f }
+		tin: { dim: "minecraft:overworld", x: 347, y: 63, z: 11, time: 1731841206340L, xRot: 2.5691116f, yRot: 168.08057f }
+		tetrahedrite: { dim: "minecraft:overworld", x: -181, y: 74, z: -136, time: 1731787418977L, xRot: 23.203074f, yRot: 75.27515f }
 		bigmountain: { dim: "minecraft:overworld", x: 392, y: 157, z: -1087, time: 1731621067085L, xRot: 21.750227f, yRot: -1.4866943f }
-		home: { dim: "minecraft:overworld", x: 378, y: 64, z: -607, time: 1731619850096L, xRot: 18.5578f, yRot: -163.86732f }
-		magnetite1mine: { dim: "minecraft:overworld", x: 485, y: 52, z: -138, time: 1731620440580L, xRot: 69.751205f, yRot: 160.18872f }
-		coal1ore: { dim: "minecraft:overworld", x: 408, y: 127, z: -1102, time: 1731621009796L, xRot: 0.6000357f, yRot: 59.41333f }
+		magnetite3mine: { dim: "minecraft:overworld", x: 249, y: 71, z: -766, time: 1731785723012L, xRot: 26.700027f, yRot: 104.67938f }
+		redstone: { dim: "minecraft:overworld", x: 433, y: -2, z: -483, time: 1731786350888L, xRot: 6.9486933f, yRot: -22.218262f }
+		magnetite2mine: { dim: "minecraft:overworld", x: 305, y: 66, z: -768, time: 1731785696925L, xRot: 22.649992f, yRot: -44.268066f }
+		clay: { dim: "minecraft:overworld", x: -478, y: 62, z: -130, time: 1731833636044L, xRot: 17.823042f, yRot: -120.55054f }
+		home: { dim: "minecraft:overworld", x: 373, y: 63, z: -621, time: 1731841432508L, xRot: 0.0f, yRot: -90.0f }
 	}
 	kit_use_times: { }
 }
