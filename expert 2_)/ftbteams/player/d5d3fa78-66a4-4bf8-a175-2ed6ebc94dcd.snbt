@@ -2,9 +2,7 @@
 	id: "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd"
 	type: "player"
 	player_name: "Mr_Heisenberg_"
-	ranks: {
-		d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd: "owner"
-	}
+	ranks: { }
 	properties: {
 		"ftbteams:display_name": "Mr_Heisenberg_"
 		"ftbteams:description": ""
