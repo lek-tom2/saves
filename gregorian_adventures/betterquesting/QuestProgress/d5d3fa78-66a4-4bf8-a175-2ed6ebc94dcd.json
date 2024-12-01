@@ -16341,9 +16341,9 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 0,
+					"claimed:1": 1,
 					"uuid:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd",
-					"timestamp:4": 1733050166073
+					"timestamp:4": 1733050222704
 				}
 			},
 			"questIDLow:4": 779,
@@ -25252,7 +25252,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"uuid:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd",
-							"value:3": 2
+							"value:3": 3
 						}
 					},
 					"index:3": 0,
