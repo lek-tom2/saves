@@ -15061,7 +15061,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0,
+								32,
 								0,
 								0,
 								0
@@ -32367,7 +32367,17 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								128,
+								0,
+								0,
+								0
+							],
+							"uuid:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd"
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:optional_retrieval"
 				},
@@ -33876,23 +33886,16 @@
 			"questIDHigh:4": 0,
 			"completed:9": {
 				"0:10": {
-					"claimed:1": 1,
+					"claimed:1": 0,
 					"uuid:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd",
-					"timestamp:4": 1733085362499
+					"timestamp:4": 0
 				}
 			},
 			"questIDLow:4": 916,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {
-						"0:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd"
-					},
-					"userProgress:9": {
-						"0:10": {
-							"uuid:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd",
-							"value:3": 1
-						}
-					},
+					"completeUsers:9": {},
+					"userProgress:9": {},
 					"index:3": 0,
 					"taskID:8": "bq_standard:hunt"
 				}
@@ -34315,7 +34318,14 @@
 			"tasks:9": {
 				"0:10": {
 					"completeUsers:9": {},
-					"userProgress:9": {},
+					"userProgress:9": {
+						"0:10": {
+							"data:11": [
+								0
+							],
+							"uuid:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd"
+						}
+					},
 					"index:3": 0,
 					"taskID:8": "bq_standard:retrieval"
 				},
@@ -34337,7 +34347,7 @@
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								1
+								0
 							],
 							"uuid:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd"
 						}
@@ -54887,17 +54897,25 @@
 		},
 		"2887:10": {
 			"questIDHigh:4": 0,
-			"completed:9": {},
+			"completed:9": {
+				"0:10": {
+					"claimed:1": 0,
+					"uuid:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd",
+					"timestamp:4": 1733171312778
+				}
+			},
 			"questIDLow:4": 1011,
 			"tasks:9": {
 				"0:10": {
-					"completeUsers:9": {},
+					"completeUsers:9": {
+						"0:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd"
+					},
 					"userProgress:9": {
 						"0:10": {
 							"data:11": [
-								0,
-								0,
-								0
+								32,
+								48,
+								32
 							],
 							"uuid:8": "d5d3fa78-66a4-4bf8-a175-2ed6ebc94dcd"
 						}
