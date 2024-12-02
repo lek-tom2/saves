@@ -7887,6 +7887,18 @@
     },
     "done": true
   },
+  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
+    "criteria": {
+      "has_shear": "2024-11-19 21:35:40 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2024-11-19 21:41:01 +0100"
+    },
+    "done": true
+  },
   "supplementaries:recipes/bamboo_spikes": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-11-19 21:42:54 +0100"
@@ -7896,12 +7908,6 @@
   "supplementaries:recipes/blackboard": {
     "criteria": {
       "minecraft:wooden_slabs": "2024-11-19 21:42:54 +0100"
-    },
-    "done": true
-  },
-  "buildinggadgets2:recipes/misc/gadget_cut_paste": {
-    "criteria": {
-      "has_shear": "2024-11-19 21:35:40 +0100"
     },
     "done": true
   },
@@ -7932,12 +7938,6 @@
   "minecraft:recipes/decorations/composter": {
     "criteria": {
       "has_wood_slab": "2024-11-19 21:42:54 +0100"
-    },
-    "done": true
-  },
-  "create:recipes/misc/crafting/kinetics/sail_framefrom_conversion": {
-    "criteria": {
-      "has_item": "2024-11-19 21:41:01 +0100"
     },
     "done": true
   },
