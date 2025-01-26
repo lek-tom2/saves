@@ -6906,5 +6906,821 @@
     },
     "done": true
   },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 20:36:51 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_button": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_bowl": {
+    "criteria": {
+      "has_blue_bowl": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence_gate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_chiseled_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_cannon_chamber": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/powder_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_edge": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 20:37:14 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_bed": {
+    "criteria": {
+      "has_needed_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_gold_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/firework_rocket_simple": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_corner": {
+    "criteria": {
+      "hasFramedSlab": "2025-01-26 20:34:33 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_plate": {
+    "criteria": {
+      "has_blue_plate": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/combat/bomb": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stone_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_elevated_slope_slab": {
+    "criteria": {
+      "hasFramedSlopeSlab": "2025-01-26 20:38:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_candle": {
+    "criteria": {
+      "has_blue_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_elevated_slope_edge": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 20:37:15 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sloped_stairs": {
+    "criteria": {
+      "hasFramedSlab": "2025-01-26 20:34:33 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_mount": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_screwdriver": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_covered_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_powered_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "sgjourney:recipes/misc/sandstone_with_lapis": {
+    "criteria": {
+      "has_lapis": "2025-01-26 20:24:55 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_block": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/powered_framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_advanced_overlays/turtle_trans_overlay": {
+    "criteria": {
+      "has_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/candle_holders/candle_holder_blue_dye": {
+    "criteria": {
+      "forge:dyes/blue": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_cup": {
+    "criteria": {
+      "has_blue_cup": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_rotate_to_framed_panel": {
+    "criteria": {
+      "hasFramedSlab": "2025-01-26 20:34:33 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_hanging_sign": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_one_way_window": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lattice_block": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "tetra:spelunking/geode": {
+    "criteria": {
+      "get_geode": "2025-01-26 20:24:07 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope_slab_rotate_to_framed_slope_panel": {
+    "criteria": {
+      "hasFramedSlopeSlab": "2025-01-26 20:38:43 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_secret_storage": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-01-26 20:36:37 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/dense_smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/smart_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_lever": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pane": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_carpet": {
+    "criteria": {
+      "has_needed_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/log_cannon_end": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 20:34:20 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_compound_slope_slab": {
+    "criteria": {
+      "hasFramedSlopeSlab": "2025-01-26 20:38:43 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "computercraft:recipes/redstone/turtle_normal_overlays/turtle_rainbow_overlay": {
+    "criteria": {
+      "has_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/cyan_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_target": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_collapsible_copycat_block": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sign": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_corner_pillar": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_detector_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_glowing_cube": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "dungeonnowloading:recipes/combat/explosive_barrel": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_iron_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_key": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flat_slope_slab_corner": {
+    "criteria": {
+      "hasFramedSlopeSlab": "2025-01-26 20:38:43 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_elevated_double_slope_slab": {
+    "criteria": {
+      "hasFramedSlopeSlab": "2025-01-26 20:38:43 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_button": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_sloped_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2025-01-26 20:38:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_blue_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_soul_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_pink": {
+    "criteria": {
+      "has_blue_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stacked_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2025-01-26 20:39:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_vertical_sliced_stairs": {
+    "criteria": {
+      "hasFramedPanel": "2025-01-26 20:38:13 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dye_blue_wool": {
+    "criteria": {
+      "has_needed_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/spruce_cabinet": {
+    "criteria": {
+      "has_spruce_trapdoor": "2025-01-26 20:53:31 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fence": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bouncy_cube": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_thick_lattice": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/machine_gun_round": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/blue_dye_from_cornflower": {
+    "criteria": {
+      "has_cornflower": "2025-01-26 20:16:26 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_obsidian_pressure_plate": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bars": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs_rotate_to_framed_vertical_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-01-26 20:36:37 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_panel": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/misc/framed_reinforcement": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/log_cannon_chamber": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_hammer": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_item_frame": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/small_blue_industrial_lamp": {
+    "criteria": {
+      "has_small_blue_industrial_lamp": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_tube": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slab_edge": {
+    "criteria": {
+      "hasFramedSlab": "2025-01-26 20:34:33 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stacked_slope_slab": {
+    "criteria": {
+      "hasFramedSlopeSlab": "2025-01-26 20:38:43 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_bookshelf": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/purple_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end_mirrored": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_blueprint": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/pair_of_cannon_wheels": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framed_wrench": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-01-26 20:34:33 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/network/cables/glass_blue": {
+    "criteria": {
+      "has_dyes/black": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_cannon_end": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_stairs": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lapis_block": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-26 20:24:55 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_centered_panel": {
+    "criteria": {
+      "hasFramedPanel": "2025-01-26 20:38:13 +0100"
+    },
+    "done": true
+  },
+  "ae2:recipes/misc/misc/tiny_tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/cannon_carriage": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_trapdoor": {
+    "criteria": {
+      "hasFramedSlab": "2025-01-26 20:34:33 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_redstone_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_door": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "betterarcheology:recipes/bomb": {
+    "criteria": {
+      "has_the_recipe": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/wrought_iron_drop_mortar_end": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_torch": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "ad_astra:recipes/misc/blue_industrial_lamp": {
+    "criteria": {
+      "has_blue_industrial_lamp": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_slope": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/gunpowder_pinch": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/tools/framing_saw": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/empty_powder_charge": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flat_inner_slope_slab_corner": {
+    "criteria": {
+      "hasFramedSlopeSlab": "2025-01-26 20:38:43 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_floor_board": {
+    "criteria": {
+      "hasFramedSlab": "2025-01-26 20:34:33 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_blue_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_fancy_activator_rail": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_flower_pot": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_panel_rotate_to_framed_slab": {
+    "criteria": {
+      "hasFramedPanel": "2025-01-26 20:38:13 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_collapsible_block": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_panel": {
+    "criteria": {
+      "hasFramedPanel": "2025-01-26 20:38:13 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_chest": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_ladder": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "createdeco:recipes/decorations/blue_placard_from_dyeing": {
+    "criteria": {
+      "has_dye": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall_board": {
+    "criteria": {
+      "hasFramedPanel": "2025-01-26 20:38:13 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_double_slope_slab": {
+    "criteria": {
+      "hasFramedSlopeSlab": "2025-01-26 20:38:43 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_half_stairs": {
+    "criteria": {
+      "hasFramedStairs": "2025-01-26 20:36:37 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_wall": {
+    "criteria": {
+      "hasFramedCube": "2025-01-26 20:35:39 +0100"
+    },
+    "done": true
+  },
+  "handcrafted:recipes/misc/blue_crockery_combo": {
+    "criteria": {
+      "has_blue_crockery_combo": "2025-01-26 20:24:40 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_elevated_double_slope_edge": {
+    "criteria": {
+      "hasFramedSlopeEdge": "2025-01-26 20:39:03 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tnt": {
+    "criteria": {
+      "has_gunpowder": "2025-01-26 20:02:03 +0100"
+    },
+    "done": true
+  },
+  "supplementaries:recipes/lapis_bricks": {
+    "criteria": {
+      "has_lapis_lazuli": "2025-01-26 20:24:55 +0100"
+    },
+    "done": true
+  },
+  "framedblocks:recipes/building_blocks/framed_sliced_stairs_slab": {
+    "criteria": {
+      "hasFramedSlab": "2025-01-26 20:34:33 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
