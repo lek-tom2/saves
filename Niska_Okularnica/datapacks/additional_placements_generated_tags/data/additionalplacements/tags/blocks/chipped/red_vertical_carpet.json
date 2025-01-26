@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.red_carpet",
+    "additionalplacements:chipped.barky_red_carpet",
+    "additionalplacements:chipped.blocky_red_carpet",
+    "additionalplacements:chipped.bundled_red_carpet",
+    "additionalplacements:chipped.cross_haired_red_carpet",
+    "additionalplacements:chipped.cubed_red_carpet",
+    "additionalplacements:chipped.knitted_red_carpet",
+    "additionalplacements:chipped.patched_red_carpet",
+    "additionalplacements:chipped.rectangle_red_carpet",
+    "additionalplacements:chipped.ribbled_red_carpet",
+    "additionalplacements:chipped.scaled_red_carpet",
+    "additionalplacements:chipped.soft_red_carpet",
+    "additionalplacements:chipped.stringed_red_carpet",
+    "additionalplacements:chipped.tiled_red_carpet",
+    "additionalplacements:chipped.tripped_red_carpet",
+    "additionalplacements:chipped.wickered_red_carpet",
+    "additionalplacements:chipped.windmill_red_carpet",
+    "additionalplacements:chipped.woved_red_carpet",
+    "additionalplacements:chipped.cornered_red_carpet",
+    "additionalplacements:chipped.crafted_red_carpet",
+    "additionalplacements:chipped.harsh_quilted_red_carpet"
+  ]
+}

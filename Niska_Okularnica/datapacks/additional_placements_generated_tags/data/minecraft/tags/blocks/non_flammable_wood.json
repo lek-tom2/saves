@@ -1,0 +1,8 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:biomesoplenty.hellbark_stairs",
+    "additionalplacements:biomesoplenty.hellbark_slab",
+    "additionalplacements:biomesoplenty.hellbark_pressure_plate"
+  ]
+}

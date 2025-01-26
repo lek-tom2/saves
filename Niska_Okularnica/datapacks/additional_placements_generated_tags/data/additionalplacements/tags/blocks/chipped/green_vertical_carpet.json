@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.green_carpet",
+    "additionalplacements:chipped.barky_green_carpet",
+    "additionalplacements:chipped.blocky_green_carpet",
+    "additionalplacements:chipped.bundled_green_carpet",
+    "additionalplacements:chipped.cross_haired_green_carpet",
+    "additionalplacements:chipped.cubed_green_carpet",
+    "additionalplacements:chipped.knitted_green_carpet",
+    "additionalplacements:chipped.patched_green_carpet",
+    "additionalplacements:chipped.rectangle_green_carpet",
+    "additionalplacements:chipped.ribbled_green_carpet",
+    "additionalplacements:chipped.scaled_green_carpet",
+    "additionalplacements:chipped.soft_green_carpet",
+    "additionalplacements:chipped.stringed_green_carpet",
+    "additionalplacements:chipped.tiled_green_carpet",
+    "additionalplacements:chipped.tripped_green_carpet",
+    "additionalplacements:chipped.wickered_green_carpet",
+    "additionalplacements:chipped.windmill_green_carpet",
+    "additionalplacements:chipped.woved_green_carpet",
+    "additionalplacements:chipped.cornered_green_carpet",
+    "additionalplacements:chipped.crafted_green_carpet",
+    "additionalplacements:chipped.harsh_quilted_green_carpet"
+  ]
+}

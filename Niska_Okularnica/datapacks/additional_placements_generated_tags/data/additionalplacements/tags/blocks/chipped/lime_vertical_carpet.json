@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.lime_carpet",
+    "additionalplacements:chipped.barky_lime_carpet",
+    "additionalplacements:chipped.blocky_lime_carpet",
+    "additionalplacements:chipped.bundled_lime_carpet",
+    "additionalplacements:chipped.cross_haired_lime_carpet",
+    "additionalplacements:chipped.cubed_lime_carpet",
+    "additionalplacements:chipped.knitted_lime_carpet",
+    "additionalplacements:chipped.patched_lime_carpet",
+    "additionalplacements:chipped.rectangle_lime_carpet",
+    "additionalplacements:chipped.ribbled_lime_carpet",
+    "additionalplacements:chipped.scaled_lime_carpet",
+    "additionalplacements:chipped.soft_lime_carpet",
+    "additionalplacements:chipped.stringed_lime_carpet",
+    "additionalplacements:chipped.tiled_lime_carpet",
+    "additionalplacements:chipped.tripped_lime_carpet",
+    "additionalplacements:chipped.wickered_lime_carpet",
+    "additionalplacements:chipped.windmill_lime_carpet",
+    "additionalplacements:chipped.woved_lime_carpet",
+    "additionalplacements:chipped.cornered_lime_carpet",
+    "additionalplacements:chipped.crafted_lime_carpet",
+    "additionalplacements:chipped.harsh_quilted_lime_carpet"
+  ]
+}

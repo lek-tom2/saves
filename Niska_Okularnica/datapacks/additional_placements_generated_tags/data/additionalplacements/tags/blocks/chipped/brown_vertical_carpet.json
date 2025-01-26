@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.brown_carpet",
+    "additionalplacements:chipped.barky_brown_carpet",
+    "additionalplacements:chipped.blocky_brown_carpet",
+    "additionalplacements:chipped.bundled_brown_carpet",
+    "additionalplacements:chipped.cross_haired_brown_carpet",
+    "additionalplacements:chipped.cubed_brown_carpet",
+    "additionalplacements:chipped.knitted_brown_carpet",
+    "additionalplacements:chipped.patched_brown_carpet",
+    "additionalplacements:chipped.rectangle_brown_carpet",
+    "additionalplacements:chipped.ribbled_brown_carpet",
+    "additionalplacements:chipped.scaled_brown_carpet",
+    "additionalplacements:chipped.soft_brown_carpet",
+    "additionalplacements:chipped.stringed_brown_carpet",
+    "additionalplacements:chipped.tiled_brown_carpet",
+    "additionalplacements:chipped.tripped_brown_carpet",
+    "additionalplacements:chipped.wickered_brown_carpet",
+    "additionalplacements:chipped.windmill_brown_carpet",
+    "additionalplacements:chipped.woved_brown_carpet",
+    "additionalplacements:chipped.cornered_brown_carpet",
+    "additionalplacements:chipped.crafted_brown_carpet",
+    "additionalplacements:chipped.harsh_quilted_brown_carpet"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.gray_carpet",
+    "additionalplacements:chipped.barky_gray_carpet",
+    "additionalplacements:chipped.blocky_gray_carpet",
+    "additionalplacements:chipped.bundled_gray_carpet",
+    "additionalplacements:chipped.cross_haired_gray_carpet",
+    "additionalplacements:chipped.cubed_gray_carpet",
+    "additionalplacements:chipped.knitted_gray_carpet",
+    "additionalplacements:chipped.patched_gray_carpet",
+    "additionalplacements:chipped.rectangle_gray_carpet",
+    "additionalplacements:chipped.ribbled_gray_carpet",
+    "additionalplacements:chipped.scaled_gray_carpet",
+    "additionalplacements:chipped.soft_gray_carpet",
+    "additionalplacements:chipped.stringed_gray_carpet",
+    "additionalplacements:chipped.tiled_gray_carpet",
+    "additionalplacements:chipped.tripped_gray_carpet",
+    "additionalplacements:chipped.wickered_gray_carpet",
+    "additionalplacements:chipped.windmill_gray_carpet",
+    "additionalplacements:chipped.woved_gray_carpet",
+    "additionalplacements:chipped.cornered_gray_carpet",
+    "additionalplacements:chipped.crafted_gray_carpet",
+    "additionalplacements:chipped.harsh_quilted_gray_carpet"
+  ]
+}
