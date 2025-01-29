@@ -612,6 +612,7 @@
   },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
+      "sweet_berries": "2025-01-29 12:04:00 +0100",
       "potato": "2025-01-26 15:48:31 +0100",
       "mutton": "2025-01-26 13:18:41 +0100",
       "bread": "2024-12-30 21:28:37 +0100",
@@ -7725,12 +7726,6 @@
   "sophisticatedbackpacks:recipes/misc/iron_backpack": {
     "criteria": {
       "has_backpack": "2025-01-29 11:37:25 +0100"
-    },
-    "done": true
-  },
-  "nuclearcraft:recipes/misc/turbine_basic_rotor_blade": {
-    "criteria": {
-      "item": "2025-01-29 11:34:52 +0100"
     },
     "done": true
   },
