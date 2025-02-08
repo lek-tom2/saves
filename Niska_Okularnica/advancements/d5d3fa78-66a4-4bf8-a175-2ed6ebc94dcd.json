@@ -9318,5 +9318,29 @@
     },
     "done": true
   },
+  "hangglider:recipes/tools/hang_glider": {
+    "criteria": {
+      "has_the_recipe": "2025-02-08 15:40:08 +0100"
+    },
+    "done": true
+  },
+  "createbigcannons:recipes/misc/big_cannon_sheet_inexpensive": {
+    "criteria": {
+      "has_inexpensive_big_cartridge_sheet": "2025-02-08 15:43:47 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/basic_rf_amplifier": {
+    "criteria": {
+      "item": "2025-02-08 15:43:47 +0100"
+    },
+    "done": true
+  },
+  "create:recipes/misc/crafting/kinetics/nozzle": {
+    "criteria": {
+      "has_item": "2025-02-08 18:30:08 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
