@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.cyan_carpet",
+    "additionalplacements:chipped.barky_cyan_carpet",
+    "additionalplacements:chipped.blocky_cyan_carpet",
+    "additionalplacements:chipped.bundled_cyan_carpet",
+    "additionalplacements:chipped.cross_haired_cyan_carpet",
+    "additionalplacements:chipped.cubed_cyan_carpet",
+    "additionalplacements:chipped.knitted_cyan_carpet",
+    "additionalplacements:chipped.patched_cyan_carpet",
+    "additionalplacements:chipped.rectangle_cyan_carpet",
+    "additionalplacements:chipped.ribbled_cyan_carpet",
+    "additionalplacements:chipped.scaled_cyan_carpet",
+    "additionalplacements:chipped.soft_cyan_carpet",
+    "additionalplacements:chipped.stringed_cyan_carpet",
+    "additionalplacements:chipped.tiled_cyan_carpet",
+    "additionalplacements:chipped.tripped_cyan_carpet",
+    "additionalplacements:chipped.wickered_cyan_carpet",
+    "additionalplacements:chipped.windmill_cyan_carpet",
+    "additionalplacements:chipped.woved_cyan_carpet",
+    "additionalplacements:chipped.cornered_cyan_carpet",
+    "additionalplacements:chipped.crafted_cyan_carpet",
+    "additionalplacements:chipped.harsh_quilted_cyan_carpet"
+  ]
+}

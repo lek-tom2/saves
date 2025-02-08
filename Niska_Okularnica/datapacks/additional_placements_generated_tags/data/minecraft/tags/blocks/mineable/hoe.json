@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.moss_carpet",
+    "additionalplacements:biomesoplenty.glowing_moss_carpet",
+    "additionalplacements:dawnoftimebuilder.thatch_wheat_slab",
+    "additionalplacements:dawnoftimebuilder.thatch_wheat_stairs",
+    "additionalplacements:dawnoftimebuilder.thatch_bamboo_slab",
+    "additionalplacements:dawnoftimebuilder.thatch_bamboo_stairs"
+  ]
+}

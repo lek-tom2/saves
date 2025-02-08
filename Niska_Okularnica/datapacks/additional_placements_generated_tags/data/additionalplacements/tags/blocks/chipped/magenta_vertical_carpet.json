@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.magenta_carpet",
+    "additionalplacements:chipped.barky_magenta_carpet",
+    "additionalplacements:chipped.blocky_magenta_carpet",
+    "additionalplacements:chipped.bundled_magenta_carpet",
+    "additionalplacements:chipped.cross_haired_magenta_carpet",
+    "additionalplacements:chipped.cubed_magenta_carpet",
+    "additionalplacements:chipped.knitted_magenta_carpet",
+    "additionalplacements:chipped.patched_magenta_carpet",
+    "additionalplacements:chipped.rectangle_magenta_carpet",
+    "additionalplacements:chipped.ribbled_magenta_carpet",
+    "additionalplacements:chipped.scaled_magenta_carpet",
+    "additionalplacements:chipped.soft_magenta_carpet",
+    "additionalplacements:chipped.stringed_magenta_carpet",
+    "additionalplacements:chipped.tiled_magenta_carpet",
+    "additionalplacements:chipped.tripped_magenta_carpet",
+    "additionalplacements:chipped.wickered_magenta_carpet",
+    "additionalplacements:chipped.windmill_magenta_carpet",
+    "additionalplacements:chipped.woved_magenta_carpet",
+    "additionalplacements:chipped.cornered_magenta_carpet",
+    "additionalplacements:chipped.crafted_magenta_carpet",
+    "additionalplacements:chipped.harsh_quilted_magenta_carpet"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "additionalplacements:minecraft.orange_carpet",
+    "additionalplacements:chipped.barky_orange_carpet",
+    "additionalplacements:chipped.blocky_orange_carpet",
+    "additionalplacements:chipped.bundled_orange_carpet",
+    "additionalplacements:chipped.cross_haired_orange_carpet",
+    "additionalplacements:chipped.cubed_orange_carpet",
+    "additionalplacements:chipped.knitted_orange_carpet",
+    "additionalplacements:chipped.patched_orange_carpet",
+    "additionalplacements:chipped.rectangle_orange_carpet",
+    "additionalplacements:chipped.ribbled_orange_carpet",
+    "additionalplacements:chipped.scaled_orange_carpet",
+    "additionalplacements:chipped.soft_orange_carpet",
+    "additionalplacements:chipped.stringed_orange_carpet",
+    "additionalplacements:chipped.tiled_orange_carpet",
+    "additionalplacements:chipped.tripped_orange_carpet",
+    "additionalplacements:chipped.wickered_orange_carpet",
+    "additionalplacements:chipped.windmill_orange_carpet",
+    "additionalplacements:chipped.woved_orange_carpet",
+    "additionalplacements:chipped.cornered_orange_carpet",
+    "additionalplacements:chipped.crafted_orange_carpet",
+    "additionalplacements:chipped.harsh_quilted_orange_carpet"
+  ]
+}
