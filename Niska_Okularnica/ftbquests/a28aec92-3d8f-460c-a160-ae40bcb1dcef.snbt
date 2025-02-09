@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "a28aec923d8f460ca160ae40bcb1dcef"
+	name: "Kamstor#a28aec92"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

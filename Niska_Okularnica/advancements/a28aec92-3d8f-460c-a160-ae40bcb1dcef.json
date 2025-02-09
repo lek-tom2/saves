@@ -1,0 +1,202 @@
+{
+  "minecraft:recipes/decorations/crafting_table": {
+    "criteria": {
+      "unlock_right_away": "2025-02-08 19:22:44 +0100"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2025-02-08 19:22:44 +0100"
+    },
+    "done": true
+  },
+  "betterdeserttemples:root": {
+    "criteria": {
+      "always": "2025-02-08 19:22:44 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:give_book": {
+    "criteria": {
+      "tick": "2025-02-08 19:22:44 +0100"
+    },
+    "done": true
+  },
+  "lootr:root": {
+    "criteria": {
+      "always_true": "2025-02-08 19:22:44 +0100"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2025-02-08 19:22:45 +0100"
+    },
+    "done": false
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_crafting": {
+    "criteria": {
+      "has_wct": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "vintageimprovements:root": {
+    "criteria": {
+      "0": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_encoding_terminal": {
+    "criteria": {
+      "has_wt": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "ironfurnaces:coal": {
+    "criteria": {
+      "rainbowcoal": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_glowstone": {
+    "criteria": {
+      "inv_changed-glowstone": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/music_label": {
+    "criteria": {
+      "has_blank_music_disc": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_encoding": {
+    "criteria": {
+      "has_wpt": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "create_connected:root": {
+    "criteria": {
+      "0": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "etched:recipes/misc/boombox": {
+    "criteria": {
+      "has_jukebox": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/upgrade_pattern_access": {
+    "criteria": {
+      "has_wit": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_netherite": {
+    "criteria": {
+      "inv_changed-netherite": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_chest": {
+    "criteria": {
+      "inv_changed-chest": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "numismatics:root": {
+    "criteria": {
+      "0": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_pattern_access_terminal": {
+    "criteria": {
+      "has_wt": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "etched:recipes/decorations/album_jukebox": {
+    "criteria": {
+      "has_jukebox": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "toms_storage:unlock_dia_pearl": {
+    "criteria": {
+      "inv_changed-ender_pearl": "2025-02-08 19:27:31 +0100",
+      "inv_changed-diamond": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "etched:recipes/transportation/jukebox_minecart": {
+    "criteria": {
+      "has_minecart": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/magnet_card": {
+    "criteria": {
+      "has_wct": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "vintagedelight:main/root": {
+    "criteria": {
+      "salt": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ce": {
+    "criteria": {
+      "has_wpt": "2025-02-08 19:27:31 +0100",
+      "has_wct": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ca": {
+    "criteria": {
+      "has_wit": "2025-02-08 19:27:31 +0100",
+      "has_wct": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/wireless_universal_terminal/ae": {
+    "criteria": {
+      "has_wit": "2025-02-08 19:27:31 +0100",
+      "has_wpt": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "solonion:recipes/food_book": {
+    "criteria": {
+      "has_potato": "2025-02-08 19:27:31 +0100",
+      "has_book": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "ae2wtlib:recipes/quantum_bridge_card": {
+    "criteria": {
+      "has_wit": "2025-02-08 19:27:31 +0100",
+      "has_wpt": "2025-02-08 19:27:31 +0100",
+      "has_wct": "2025-02-08 19:27:31 +0100"
+    },
+    "done": true
+  },
+  "DataVersion": 3465
+}
