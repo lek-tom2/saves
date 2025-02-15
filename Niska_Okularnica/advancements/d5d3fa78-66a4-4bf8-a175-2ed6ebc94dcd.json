@@ -51,12 +51,14 @@
       "minecraft:swamp": "2025-02-14 15:51:26 +0100",
       "minecraft:cold_ocean": "2024-12-30 21:43:29 +0100",
       "minecraft:forest": "2024-12-30 21:17:00 +0100",
+      "minecraft:lush_caves": "2025-02-15 12:32:54 +0100",
       "minecraft:ice_spikes": "2025-01-03 00:15:48 +0100",
       "minecraft:frozen_ocean": "2025-02-09 14:10:16 +0100",
       "minecraft:deep_frozen_ocean": "2025-02-09 14:11:47 +0100",
       "minecraft:ocean": "2025-01-22 20:19:42 +0100",
       "minecraft:snowy_beach": "2025-01-22 21:06:40 +0100",
       "minecraft:windswept_savanna": "2025-01-26 14:58:40 +0100",
+      "minecraft:deep_lukewarm_ocean": "2025-02-15 12:28:02 +0100",
       "minecraft:flower_forest": "2025-02-09 14:23:24 +0100",
       "minecraft:windswept_gravelly_hills": "2025-01-26 14:56:46 +0100",
       "minecraft:savanna": "2025-01-22 20:14:35 +0100",
@@ -372,6 +374,7 @@
       "spider_nest": "2025-01-03 00:03:46 +0100",
       "dryland": "2025-02-08 20:23:57 +0100",
       "wasteland": "2025-02-08 20:27:11 +0100",
+      "lush_desert": "2025-02-15 12:40:30 +0100",
       "wasteland_steppe": "2025-02-08 20:44:09 +0100",
       "seasonal_orchard": "2024-12-30 20:40:13 +0100",
       "dune_beach": "2024-12-30 20:39:02 +0100",
@@ -695,7 +698,8 @@
   "lootr:social": {
     "criteria": {
       "opened_barrel": "2025-01-26 15:57:00 +0100",
-      "opened_chest": "2024-12-30 21:26:03 +0100"
+      "opened_chest": "2024-12-30 21:26:03 +0100",
+      "opened_cart": "2025-02-15 12:30:53 +0100"
     },
     "done": false
   },
@@ -9176,6 +9180,7 @@
   },
   "minecraft:husbandry/complete_catalogue": {
     "criteria": {
+      "minecraft:jellie": "2025-02-15 12:14:15 +0100",
       "minecraft:british_shorthair": "2025-02-08 20:11:37 +0100",
       "minecraft:red": "2025-02-06 20:18:53 +0100"
     },
@@ -11344,6 +11349,12 @@
     },
     "done": true
   },
+  "create:stressometer": {
+    "criteria": {
+      "0": "2025-02-14 17:00:13 +0100"
+    },
+    "done": true
+  },
   "create:fan_processing": {
     "criteria": {
       "0": "2025-02-14 17:03:51 +0100"
@@ -11356,9 +11367,69 @@
     },
     "done": true
   },
-  "create:stressometer": {
+  "minecraft:recipes/building_blocks/jungle_wood": {
     "criteria": {
-      "0": "2025-02-14 17:00:13 +0100"
+      "has_log": "2025-02-15 12:02:49 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/jungle_planks": {
+    "criteria": {
+      "has_logs": "2025-02-15 12:02:49 +0100"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/misc/lychee_crate": {
+    "criteria": {
+      "has_lychee": "2025-02-15 12:02:57 +0100"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/mango_salad": {
+    "criteria": {
+      "has_mango": "2025-02-15 12:04:52 +0100"
+    },
+    "done": true
+  },
+  "fruitsdelight:recipes/misc/mango_crate": {
+    "criteria": {
+      "has_mango": "2025-02-15 12:04:52 +0100"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/decorations/safety_net": {
+    "criteria": {
+      "has_rope": "2025-02-15 12:06:09 +0100"
+    },
+    "done": true
+  },
+  "vintagedelight:main/harvest_salt": {
+    "criteria": {
+      "harvest_salt": "2025-02-15 12:06:50 +0100"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/map": {
+    "criteria": {
+      "has_compass": "2025-02-15 12:13:26 +0100"
+    },
+    "done": true
+  },
+  "lootr:1cart": {
+    "criteria": {
+      "opened_cart": "2025-02-15 12:30:53 +0100"
+    },
+    "done": true
+  },
+  "buildinggadgets2:recipes/misc/gadget_destruction": {
+    "criteria": {
+      "has_ender_pearl": "2025-02-15 12:30:53 +0100"
+    },
+    "done": true
+  },
+  "biomesoplenty:recipes/misc/magenta_dye_from_wildflower": {
+    "criteria": {
+      "has_flower": "2025-02-15 12:43:39 +0100"
     },
     "done": true
   },
