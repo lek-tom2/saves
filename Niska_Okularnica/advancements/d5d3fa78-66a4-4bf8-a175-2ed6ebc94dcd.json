@@ -11433,5 +11433,29 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/nuclearcraft_zinc_dust": {
+    "criteria": {
+      "has_ore": "2025-02-16 23:59:04 +0100"
+    },
+    "done": true
+  },
+  "nuclearcraft:recipes/misc/blast_zinc_dust": {
+    "criteria": {
+      "has_ore": "2025-02-16 23:59:04 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:affix/random": {
+    "criteria": {
+      "sword": "2025-02-17 00:11:26 +0100"
+    },
+    "done": true
+  },
+  "apotheosis:affix/boss": {
+    "criteria": {
+      "sword": "2025-02-17 00:10:55 +0100"
+    },
+    "done": true
+  },
   "DataVersion": 3465
 }
