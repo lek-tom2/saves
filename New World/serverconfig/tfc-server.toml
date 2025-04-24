@@ -1,3 +1,7 @@
+#
+# Familiarity value above which familiarity no longer will decay. Default is 0.3, or 30%. Setting it to 0 will cause familiarity to never decay.
+#Range: 0.0 ~ 1.0
+familiarityDecayLimit = 0.3
 
 [general]
 	#
@@ -507,6 +511,16 @@
 		# If true, powder bowls will interact with in-world automation such as hoppers on a side-specific basis.
 		powderBowlEnableAutomation = true
 
+	[blocks.mud]
+		#
+		# If TFC dirt blocks are able to be created into mud blocks using a water-filled fluid container.
+		enableDirtToMudCreation = true
+
+	[blocks.quern]
+		#
+		# If true, querns will interact with in-world automation such as hoppers on a side-specific basis.
+		quernEnableAutomation = true
+
 [items]
 
 	[items.smallVessel]
@@ -812,7 +826,7 @@
 		# If true, enables the default vanilla behavior of mobs spawning with enchanted weapons sometimes.
 		enableVanillaMobsSpawningWithEnchantments = false
 		#
-		# If true, enables the default behavior of mobs sapwning with vanilla armor and weapons
+		# If true, enables the default behavior of mobs spawning with vanilla armor and weapons
 		enableVanillaMobsSpawningWithVanillaEquipment = false
 		#
 		# If true, golems can be built
@@ -1269,6 +1283,31 @@
 			# Ticks until egg is ready to hatch
 			#Range: > 0
 			quailHatchDays = 8
+
+		[mechanics.animals.rabbit]
+			#
+			# Max familiarity an adult may reach
+			#Range: 0.0 ~ 1.0
+			rabbitFamiliarityCap = 0.35
+			#
+			# Days until animal reaches adulthood
+			#Range: > 0
+			rabbitAdulthoodDays = 80
+			#
+			# Uses before animal becomes old and can no longer be used
+			#Range: > 0
+			rabbitUses = 40
+			#
+			# Does the animal eat rotten food?
+			rabbitEatsRottenFood = true
+			#
+			# Length of pregnancy in days
+			#Range: > 0
+			rabbitGestationDays = 19
+			#
+			# Max number of children born
+			#Range: 0 ~ 100
+			rabbitChildCount = 6
 
 [weird]
 	farmlandMakesTheBestRaceTracks = false

@@ -1,0 +1,17 @@
+{
+	id: "a28aec92-3d8f-460c-a160-ae40bcb1dcef"
+	type: "player"
+	player_name: "Kamstor"
+	ranks: {
+		a28aec92-3d8f-460c-a160-ae40bcb1dcef: "owner"
+	}
+	properties: {
+		"ftbteams:display_name": "Kamstor"
+		"ftbteams:description": ""
+		"ftbteams:color": "#9AFF59"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}
